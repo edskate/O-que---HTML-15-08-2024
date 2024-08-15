@@ -1,3 +1,18 @@
 {
-  "cSpell.words": ["humorado"]
+  "cSpell.words": [
+    "Aqui",
+    "dizer",
+    "linguagem",
+    "Seguimos",
+    "sigla",
+    "struturar"
+  ],
+  "cSpell.customDictionaries": {
+    "custom-dictionary-workspace": {
+      "name": "custom-dictionary-workspace",
+      "path": "${workspaceFolder:O-que---HTML-15-08-2024}/.cspell/custom-dictionary-workspace.txt",
+      "addWords": true,
+      "scope": "workspace"
+    }
+  }
 }
