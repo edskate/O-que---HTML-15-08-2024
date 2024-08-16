@@ -1,0 +1,24 @@
+document.getElementById("body").innerHTML = "Body.";
+document.getElementById("body").style.color = "black";
+document.getElementById("body").style.fontSize = "20px";
+document.getElementById("body").style.fontFamily = "Arial, Helvetica, sans-serif";
+document.getElementById("body").style.textDecoration = "underline";
+document.getElementById("body").style.textTransform = "uppercase";
+document.getElementById("body").style.fontStyle = "italic";
+document.getElementById("body").style.fontWeight = "bold";
+document.getElementById("body").style.textShadow = "2px 2px 4px #000000";
+document.getElementById("body").style.backgroundColor = "yellow";
+document.getElementById("body").style.padding = "10px";
+document.getElementById("body").style.border = "1px solid #000000";
+document.getElementById("body").style.borderRadius = "15px";
+document.getElementById("body").style.boxShadow = "2px 2px 4px #000000";
+document.getElementById("body").style.margin = "10px";
+document.getElementById("body").style.display = "inline-block";
+document.getElementById("body").style.width = "300px";
+document.getElementById("body").style.height = "100px";
+document.getElementById("body").style.textAlign = "center";
+document.getElementById("body").style.color = "blue";
+document.getElementById("body").style.fontSize = "20px";
+document.getElementById("body").style.fontFamily = "Arial, Helvetica, sans-serif";
+document.getElementsByName("body").style.textAlign = "center";
+
